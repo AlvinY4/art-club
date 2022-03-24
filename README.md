@@ -30,7 +30,6 @@ Our App, Art Club, is a social media platform that serves as a communnity board 
 - Express
 - REACT 
 - Node.js 
-- Tailwind.css
 - GraphQL 
 - Bcrypt 
 - Faker.js 
@@ -59,6 +58,7 @@ Our App, Art Club, is a social media platform that serves as a communnity board 
 
 ## Deployed Website Link 
 
+https://art-mania-club.herokuapp.com/ 
 
 ## Contributors 
 
@@ -66,5 +66,6 @@ Our App, Art Club, is a social media platform that serves as a communnity board 
 - [Lane Byers](https://github.com/trip6love)
 - [Parker Justice](https://github.com/parkerjustice)
 - [Alvin Yearby](https://github.com/AlvinY4) 
+
 
 
